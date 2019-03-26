@@ -18,9 +18,6 @@ class CollaborativeRecommender():
     articles.
     '''
     
-    #def __init__(self, user_articles_pth):
-    #   return
-    
     def fit(self, user_articles_pth):
         '''
         Fits the recommender to data which contains interactions between users
