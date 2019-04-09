@@ -64,6 +64,8 @@ rec.fit('../data/user-item-interactions.csv', '../data/articles_community.csv')
 # make 10 predictions for user_id = 2
 rec.make_recs(2, 10)
 ```
+## Demo
+![demo](https://github.com/Lexie88rus/Udacity-DSND-Recommendations-with-IBM/blob/master/demo/demo.gif)
 
 ## External Libraries
 * [NLTK](http://www.nltk.org) library for message text processing,
